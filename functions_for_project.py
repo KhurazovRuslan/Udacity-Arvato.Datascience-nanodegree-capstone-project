@@ -12,7 +12,6 @@ from sklearn.cluster import KMeans
 from sklearn.pipeline import Pipeline
 from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.model_selection import cross_val_score, StratifiedShuffleSplit
-from hyperopt import fmin, tpe, Trials, hp, STATUS_OK
 
 
 # a function for finding information on a feature

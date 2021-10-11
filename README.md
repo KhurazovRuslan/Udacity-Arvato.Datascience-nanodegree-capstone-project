@@ -1,7 +1,7 @@
 <h1>Udacity - Arvato customer segmentation and mailout campaign prediction.</h1>
 
 
-This is the final project for Data science nanodegree by <a href='https://www.udacity.com/'>udacity.com</a>. The first goal of the project is to clusterize general population in Germany and current customers of the company trying to find features that make up a potential customer. The second goal is to build a classification model trying to predict responses to a marketing campaign.
+This is the final project for Data science nanodegree by <a href='https://www.udacity.com/'>udacity.com</a>. The first goal of the project is to clusterize general population in Germany and current customers of the company trying to find features that make up a potential customer. The second goal is to build a classification model trying to predict responses to a marketing campaign. As the result of the project a <a href='https://khurazovruslan.medium.com/customer-segmentation-and-prediction-for-arvato-financial-services-b7bea75380fd'>blogpost was posted on medium.com</a>
 
 
 <h2>Data:</h2>
